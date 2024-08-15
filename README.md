@@ -3,4 +3,5 @@ In this project, I developed a YouTube clone using HTML and CSS, showcasing my s
 <br>
 <br>
 <h2> Demo </h2>
-<img src="Screenshot 2024-08-14 221626.png">
+
+![image](https://github.com/ramajan-tahashildar/YouTube-Clone-Frontend/blob/403cbae08b751c8c0c3c2ab9c4b35d4e45b1f645/Asset/Demo.png)

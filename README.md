@@ -19,4 +19,4 @@ In this project, I developed a YouTube clone using HTML and CSS, showcasing my s
 - `Index.html` - Main HTML file for the website.
   
 ## Contributors
-**Ramajan Tahashildar**
+ ![image](Asset/icons8-r-100.png) **Ramajan Tahashildar**
